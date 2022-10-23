@@ -1,0 +1,22 @@
+{
+  "groceries": [
+    {
+      "name": "Now Foods, Real Food, Organic Triple Omega Seed Mix, 12 oz (340 g)"
+    },
+    {
+      "name": "Nutiva, Organic, Hemp Protein Hi-Fiber, 3 lbs (1.36 kg)",
+      "quantity": "2"
+    },
+    {
+      "name": "General Mills, Cheerios, 12 oz (340 g)",
+      "quantity": "12"
+    },
+    {
+      "name": "Kashi, Cinnamon French Toast Cereal, 10 oz (283 g)",
+      "quantity": "1"
+    },
+    {
+      "quantity": "10"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "groceries": [
+    {
+      "name": "Yogi Tea, Detox, Caffeine Free, 32 Tea Bags, 2.04 oz (58 g)",
+      "quantity": "2"
+    },
+    {
+      "name": "Clif Bar, Energy Bar, Chocolate Brownie, 12 Bars, 2.40 oz (68 g) Each",
+      "quantity": "1"
+    },
+    {
+      "name": "Lakanto, Drinking Chocolate Mix, 10 oz",
+      "quantity": "5"
+    },
+    {
+      "name": "Sprout Living, Organic Coconut Water Powder, 8 oz (225 g)",
+      "quantity": "3"
+    },
+    {
+      "name": "Bergin Fruit and Nut Company, Banana Chips, 9 oz (255 g)",
+      "quantity": "10"
+    },
+    {
+      "name": "Chimes, Ginger Chews, Orange, 5 oz (141.8 g)",
+      "quantity": "1"
+    },
+    {
+      "name": "Organic Traditions, Dried Jujube Fruit, 6 oz (170 g)",
+      "quantity": "5"
+    },
+    {
+      "name": "Sunfood, Raw Organic Brazil Nuts, 8 oz (227 g)",
+      "quantity": "2"
+    }
+  ]
+}
